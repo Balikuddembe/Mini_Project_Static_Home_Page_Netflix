@@ -1,0 +1,48 @@
+.wallpaper{
+    background-image:url('./img.jpg');
+    height:800px;
+    background-size: cover;
+  
+}
+.button{
+    text-align:right;
+    margin-top: -90px;
+    position: relative;
+    margin-right: 50px;
+    
+
+}
+.heading1{
+    color: white;
+    text-align: center;
+    font-weight: 300px;
+    font-size: xx-large; 
+    margin-top: -80px;
+    
+}
+.heading2{
+    color:white;
+    text-align: center;
+    font-size: large;
+}
+.heading3{
+    color: whitesmoke;
+    text-align: center;
+    font-size: large;
+}
+
+.form-control{
+    width: 500px;
+    height: 50px;
+    margin-left: 340px;
+ 
+}
+.signin{
+    background-color: red;
+    margin-bottom: -50px;
+    margin-left: 65%;
+    width: 100px;
+    height: 45px;
+    color: white;
+    position: absolute;
+}
